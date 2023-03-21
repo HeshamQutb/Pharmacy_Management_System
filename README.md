@@ -1,6 +1,6 @@
 Pharmacy Management System
 
-This web-based Pharmacy Management System was developed by Ahmed ELnobey, Reem Ashref, Dalia Mostafa, Hsham Quteb, and Fatma Hamam using PHP, MySQL, HTML, CSS, and JavaScript.
+This web-based Pharmacy Management System was developed by Ahmed ELnobey, Reem Ashref, Dalia Mostafa, Hsham Qutb, and Fatma Hamam using PHP, MySQL, HTML, CSS, and JavaScript.
 supervised by : 
 DR. mohamed ramadan
 DR. mohamed EL-5holey
