@@ -70,7 +70,7 @@ This project was developed as a collaboration among college students. The team m
 - Ahmed Mahmouad
 - Dalia Mostafa
 - Fatma Hamam
-- Hesham Quteb
+- Hesham Qutb
 
 ## Contributing
 
